@@ -7703,5 +7703,6 @@ footer a {
  * Preview (not necessary for production sites)
  */
 .contact-logo {
-  margin: 7em 7em 0em;
+  margin-top: 60px;
+      padding: 50px;
 }
