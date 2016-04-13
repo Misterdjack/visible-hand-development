@@ -6633,6 +6633,16 @@ button.close {
   font-size: 13px;
   color: gray-light;
 }
+.navbar-social__link {
+  font-size: 2em;
+}
+#navbar-social__link_linkedin:hover {
+  color: #1a84bc;
+}
+
+#navbar-social__link_facebook:hover {
+  color: #3b5998;
+}
 @media (min-width: 768px) {
   .navbar-default .dropdown-menu {
     border-radius: 4px !important;
@@ -7592,8 +7602,8 @@ footer a {
 .footer-social__link:focus {
   color: white;
 }
-.footer-social__link_twitter:hover {
-  background-color: #55acee;
+.footer-social__link_linkedin:hover {
+  background-color: #1a84bc;
 }
 .footer-social__link_facebook:hover {
   background-color: #3b5998;
