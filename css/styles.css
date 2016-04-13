@@ -1570,7 +1570,7 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 790px;
   }
 }
 @media (min-width: 992px) {
@@ -6636,6 +6636,9 @@ button.close {
 .navbar-social__link {
   font-size: 2em;
 }
+#navbar-social__link_twitter:hover {
+  color: #55acee;
+}
 #navbar-social__link_linkedin:hover {
   color: #1a84bc;
 }
@@ -7608,8 +7611,8 @@ footer a {
 .footer-social__link_facebook:hover {
   background-color: #3b5998;
 }
-.footer-social__link_google-plus:hover {
-  background-color: #dd4b39;
+.footer-social__link_twitter:hover {
+  background-color: #55acee;
 }
 @media (min-width: 768px) {
   footer {
