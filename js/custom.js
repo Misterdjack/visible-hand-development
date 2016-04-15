@@ -1,13 +1,3 @@
-/*------------------------------------------------------------------
-Project:        Landitt
-Author:         Yevgeny Simzikov
-URL:            http://simpleqode.com/
-                https://twitter.com/YevSim
-                https://www.facebook.com/simpleqode
-Version:        1.0.0
-Created:        27/05/2015
-Last change:    27/05/2015
--------------------------------------------------------------------*/
 
 /**
  * Navigation
@@ -51,6 +41,13 @@ $(".js-toggle-sidebar").on('click', function() {
     return false;
 });
 
+/* Bootstrap Custom JS */
+$(document).ready(function() {
+  $('#myCarousel').carousel({
+    interval: 3800
+  });
+});
+
 
 /**
  * Smooth scroll to anchor
@@ -79,18 +76,16 @@ $(function() {
 // $(document).ready(function() {
 //     var owl = $("#review__carousel");
 //     owl.owlCarousel({
-     
+//
 //         items:              2,
 //         itemsDesktop:       [1199,2],
 //         itemsDesktopSmall:  [991,2],
 //         itemsTablet:        [768,2],
 //         itemsTabletSmall:   false,
 //         itemsMobile:        [479,1],
-//         navigation : true,
+//         autoPlay: 3000,
 //         slideSpeed: 600,
 //         pagination: false,
-//         navigationText: ['<i class="oi oi-arrow-left"></i>','<i class="oi oi-arrow-right"></i>']
-
 //     });
 // });
 
@@ -149,7 +144,7 @@ $(document).ready(function() {
         });
 
         this.destroy();
-        
+
     }, { offset: 'bottom-in-view' });
 });
 
