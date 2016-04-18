@@ -6229,6 +6229,14 @@ button.close {
 .carousel-caption .btn {
   text-shadow: none;
 }
+
+@media (max-width: 767px) {
+  .carousel-indicators {
+    bottom: 0px;
+    margin-bottom: 0px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .glyphicon-chevron-right,
@@ -6983,6 +6991,11 @@ body {
 .hero__heading {
   margin-top: 0;
   font-size: 30px;
+  color: white;
+}
+#hero__heading__vh {
+  margin-bottom: 30px;
+  text-align: left;
   color: white;
 }
 .hero__heading + .hero-heading__sub {

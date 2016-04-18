@@ -203,7 +203,7 @@ Main components
 .cd-product-mockup {
   width: 90%;
   /* set here the max-width for the mockup */
-  max-width: 450px;
+  max-width: 323px;
   margin: 0 auto 50px;
   position: relative;
 }
@@ -253,7 +253,7 @@ Main components
     width: 0;
     /* play with these values to create a realistic shadow */
     height: 45%;
-    box-shadow: 0px 0px 30px 225px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 30px 183px rgba(0, 0, 0, 0.1);
     -webkit-transform: translateZ(-100px) translateY(480px);
     -moz-transform: translateZ(-100px) translateY(480px);
     -ms-transform: translateZ(-100px) translateY(480px);
@@ -466,12 +466,12 @@ Main components
   animation: cd-pulse 2s infinite;
 }
 .cd-single-point:nth-of-type(1) {
-  bottom: 87%;
-  right: 77%;
-}
-.cd-single-point:nth-of-type(2) {
   top: 32%;
   right: 21%;
+}
+.cd-single-point:nth-of-type(2) {
+  bottom: 87%;
+  right: 77%;
 }
 .cd-single-point:nth-of-type(3) {
   top: 9%;
