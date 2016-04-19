@@ -46,6 +46,9 @@ $(document).ready(function() {
   $('#myCarousel').carousel({
     interval: 3800
   });
+
+  $('[data-toggle="popover"]').popover();
+
 });
 
 

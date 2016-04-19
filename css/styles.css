@@ -7374,9 +7374,9 @@ body {
 /**
  * Team
  */
-#team {
-  background-image: url("../img/black-linen.png");
-}
+#testimonials {
+   background-image: url(../img/contemporary_china.png);
+ }
 
 .team__item {
   margin-bottom: 40px;
@@ -7417,16 +7417,16 @@ body {
 }
 .team-item-contact__link:hover,
 .team-item-contact__link:focus {
-  background: #55acee;
+  background: #f67280;
   color: white;
 }
-.team-item-contact__link_facebook {
+.team-item-contact__link_linkedin {
   border-left: 1px solid white;
   border-radius: 0 3px 3px 0;
 }
-.team-item-contact__link_facebook:hover,
-.team-item-contact__link_facebook:focus {
-  background: #3b5998;
+.team-item-contact__link_linkedin:hover,
+.team-item-contact__link_linkedin:focus {
+  background: #1a84bc;
 }
 .team-item__name {
   font-weight: 700;
