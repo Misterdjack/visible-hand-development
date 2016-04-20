@@ -20,6 +20,7 @@ html * {
 
 body {
   font-size: 1.6rem;
+  min-height: 920px;
   font-family: "Bitter", serif;
   color: #a29cc2;
   background-image: -webkit-linear-gradient(top, #6c5b7b 0%, #355c7d 100%);
@@ -79,9 +80,17 @@ Modules - reusable parts of our design
   white-space: nowrap;
 }
 
+#e-mail {
+  background-color: #f67280;
+}
+
+#e-mail:hover {
+  background-color: #f34255;
+}
+
 .cd-btn {
   display: inline-block;
-  width: 120px;
+  width: 140px;
   height: 40px;
   line-height: 40px;
   margin-right: 8px;
@@ -99,7 +108,7 @@ Modules - reusable parts of our design
 }
 @media only screen and (min-width: 1170px) {
   .cd-btn {
-    width: 190px;
+    width: 220px;
     height: 60px;
     line-height: 60px;
     margin-right: 15px;

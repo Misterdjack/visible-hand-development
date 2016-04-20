@@ -6444,11 +6444,11 @@ body {
   -o-transition: background 0.5s;
   transition: background 0.5s;
 }
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .portfolio-item__mask {
     visibility: hidden;
   }
-}
+}*/
 .portfolio-item-mask__content {
   position: absolute;
   display: block;
