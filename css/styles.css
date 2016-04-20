@@ -255,7 +255,7 @@ th {
     border: 1px solid #ddd !important;
   }
 }
-  
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -6625,6 +6625,9 @@ body {
 .team-item-contact__link_linkedin:hover,
 .team-item-contact__link_linkedin:focus {
   background: #1a84bc;
+}
+.team-item__col {
+  min-height: 69px;
 }
 .team-item__name {
   font-weight: 700;
