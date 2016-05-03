@@ -768,7 +768,7 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 790px;
+    width: 820px;
   }
 }
 @media (min-width: 992px) {
@@ -5787,7 +5787,7 @@ button.close {
   outline: none;
 }
 .btn-primary {
-  border-radius: 19.5px;
+  border-radius: 31px;
   border: 2px solid #f67280;
   background: #f67280;
   color: white;
