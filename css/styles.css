@@ -5758,6 +5758,14 @@ button.close {
 /**
  * Buttons
  */
+.btn-xl {
+  padding: 18px 28px;
+  font-size: 18px;
+  line-height: normal;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  }
 .btn-default {
   border-radius: 19.5px;
   border: 2px solid #9a9a9a;

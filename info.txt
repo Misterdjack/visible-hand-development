@@ -1,0 +1,11 @@
+With our website - we want the design to be aligned with our goal.  Our goals can be to educate customers, generate sales leads, inform families (of individuals in facilities using VisibleHand), and answer questions for current customers.
+
+Right now - we don't have a lot of content to fill an educational website.  People are already visiting for some reason - and we want to track the activity of these visitors and engage with them if they are a potential lead.  In the near term -- I see site working like a landing page.  This can change as we ramp things up in the next 6-8 months.
+
+Until we have a library of content, I think we keep it very simple - and make big, clear, easy calls to action.  We want enough information to inform, and not too much to lose intrigue...with the goal of getting them to fill out the "I'm interested" form.
+
+Can we change the buttons "info@visiblehand.io" and "Demo" to "I'm Interested," make them bigger, and link them to a info gathering web form?  We would want completed forms as a goal conversion in Google Analytics.
+
+We are using ActiveHosted for our CRM, and they have a form builder we could use.  For all of the people that fill out the form, we can have it add their name to a list in our CRM (Website "I'm Interested" Leads), and set it to notify Matt and me via Email.  That way we can get in touch immediately, which is crucial if they are a potential customer.  It will also help us build our email lists for when we conduct email marketing campaigns.  If this is too complicated, we could just have the info emailed to us and we could manually enter the data into the CRM.
+
+What do you all think about this?  Basically: Simplify, track, gather customer info.
