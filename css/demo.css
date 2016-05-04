@@ -80,11 +80,11 @@ Modules - reusable parts of our design
   white-space: nowrap;
 }
 
-#e-mail {
+#form-link {
   background-color: #f67280;
 }
 
-#e-mail:hover {
+#form-link:hover {
   background-color: #f34255;
 }
 
