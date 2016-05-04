@@ -9,3 +9,5 @@ Can we change the buttons "info@visiblehand.io" and "Demo" to "I'm Interested," 
 We are using ActiveHosted for our CRM, and they have a form builder we could use.  For all of the people that fill out the form, we can have it add their name to a list in our CRM (Website "I'm Interested" Leads), and set it to notify Matt and me via Email.  That way we can get in touch immediately, which is crucial if they are a potential customer.  It will also help us build our email lists for when we conduct email marketing campaigns.  If this is too complicated, we could just have the info emailed to us and we could manually enter the data into the CRM.
 
 What do you all think about this?  Basically: Simplify, track, gather customer info.
+
+<script src="https://visiblehand.activehosted.com/f/embed.php?id=7" type="text/javascript" charset="utf-8"></script>
